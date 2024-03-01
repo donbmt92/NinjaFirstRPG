@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27884b71a51923f48a5839d9d8c55757, type: 3}
+  m_Name: ItemWeapon_Hammer
+  m_EditorClassIdentifier: 
+  ID: WeaponHammer
+  Name: Hammer
+  Icon: {fileID: 744270223, guid: a5b8293e5551a1a45910a3231bc90de1, type: 3}
+  Description: 'a Mighthy Hammer
+
+'
+  ItemType: 0
+  IsConsumable: 0
+  IsStackable: 0
+  MaxStack: 1
+  Quantity: 0
+  Weapon: {fileID: 11400000, guid: fccf776e1d8289849b72fd3d6780db51, type: 2}

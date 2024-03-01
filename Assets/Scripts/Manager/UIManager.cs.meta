@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 377584c634e96954391765c4df2ee0e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stats: {fileID: 11400000, guid: b0d962c14f846544e881107afe441f0f, type: 2}
+  - healthBar: {instanceID: 0}
+  - manaBar: {instanceID: 0}
+  - expBar: {instanceID: 0}
+  - levelTMP: {instanceID: 0}
+  - healthTMP: {instanceID: 0}
+  - manaTMP: {instanceID: 0}
+  - expTMP: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

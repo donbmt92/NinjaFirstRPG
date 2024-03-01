@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27884b71a51923f48a5839d9d8c55757, type: 3}
+  m_Name: ItemWeapon_Wand
+  m_EditorClassIdentifier: 
+  ID: WeaponWand
+  Name: Magic Wand
+  Icon: {fileID: -1657379734, guid: 3e647f6e233b720428ad75fbf1041bd0, type: 3}
+  Description: 'a magic wand  and when it u use it! a beam like HADOKEN will shoots
+    from you hand
+
+'
+  ItemType: 0
+  IsConsumable: 0
+  IsStackable: 0
+  MaxStack: 1
+  Quantity: 0
+  Weapon: {fileID: 11400000, guid: cc87033fc4d56b54dbd1b3a379b02d4f, type: 2}

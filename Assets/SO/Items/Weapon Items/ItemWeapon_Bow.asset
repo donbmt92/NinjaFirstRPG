@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27884b71a51923f48a5839d9d8c55757, type: 3}
+  m_Name: ItemWeapon_Bow
+  m_EditorClassIdentifier: 
+  ID: WeaponBow
+  Name: Bow
+  Icon: {fileID: 1999692633, guid: f43beb2b739d7654fadb6f7318b2f60e, type: 3}
+  Description: 'A long bow that shoots Arrow!
+
+'
+  ItemType: 0
+  IsConsumable: 0
+  IsStackable: 0
+  MaxStack: 1
+  Quantity: 0
+  Weapon: {fileID: 11400000, guid: 661d233863f6e2940a2d0cab0a8a90ac, type: 2}

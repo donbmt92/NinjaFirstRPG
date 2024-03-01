@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy_Axolo
+  m_Controller: {fileID: 9100000, guid: a118c0717b91f1a499577137a663e2fe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1f30efe61da193944bab567a1cf8e8aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d4d0af2626a8b324185d1b0b54279aba, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7b08cd085fe828b4dac1811255784303, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 903558cc7e44e86408c65ea6c959f1db, type: 2}

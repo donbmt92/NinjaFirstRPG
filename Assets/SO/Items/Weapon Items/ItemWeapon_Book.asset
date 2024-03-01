@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27884b71a51923f48a5839d9d8c55757, type: 3}
+  m_Name: ItemWeapon_Book
+  m_EditorClassIdentifier: 
+  ID: WeaponBook
+  Name: Magic Book
+  Icon: {fileID: -1899386645, guid: 6019e96afb2057f45930762b66648a64, type: 3}
+  Description: 'a magic book and when it u use it! a fireball will shoots from you
+    hand
+
+'
+  ItemType: 0
+  IsConsumable: 0
+  IsStackable: 0
+  MaxStack: 1
+  Quantity: 0
+  Weapon: {fileID: 11400000, guid: d348d39bd2a82ca45a53a3116b59b7d9, type: 2}
